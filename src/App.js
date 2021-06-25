@@ -16,6 +16,7 @@ class App extends React.Component {
     this.posthttp =this.posthttp.bind(this);
    this.login=this.login.bind(this)
     //this.changehandler2 = this.changehandler2.bind(this);
+    //this is for testing
   }
   login(e)
   {
